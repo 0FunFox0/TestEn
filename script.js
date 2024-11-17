@@ -96,7 +96,7 @@ function showFinalResult() {
     }
 
     // "은혜야 사랑해 수고했어" 메시지 띄우기
-    alert("은혜야 사랑해! 💖");  // 여기에 팝업 메시지를 추가했습니다.
+    alert("은혜야 수고했어 사랑해! 💖");  // 여기에 팝업 메시지를 추가했습니다.
     
     const finalMessageElement = document.getElementById('finalMessage');
     finalMessageElement.classList.remove('hidden');
